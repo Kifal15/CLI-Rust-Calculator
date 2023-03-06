@@ -15,13 +15,11 @@ Run the command `cargo build --release`. This will compile the calculator in rel
 To run the calculator, use the following command:
 
 ```php
-Copy code
 ./target/release/calculator <first-argument> <operator> <second-argument>
 ```
 For example, if you want to add 2 and 3, you would run the following command:
 
 ```bash
-Copy code
 ./target/release/calculator 2 + 3
 ```
 The calculator will output the result of the operation, which in this case would be 5.
