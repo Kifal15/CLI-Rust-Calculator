@@ -1,5 +1,5 @@
-# calculator
- This is a basic calculator written in Rust that runs in the command line. It takes in two arguments and an operator as inputs and performs the requested operation.
+# Rust Command Line Calculator
+This is a basic calculator written in Rust that runs in the command line. It takes in two arguments and an operator as inputs and performs the requested operation.
 
 Usage
 To use the calculator, you must first compile it using the Rust package manager, Cargo. Here's how to do that:
